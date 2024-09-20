@@ -1,1 +1,1 @@
-# CompProgramming
+# Module competitive programming
